@@ -24,8 +24,22 @@ namespace CursoMVC.Models
         /// </summary>
         public string Categoria_CodigoNome
         {
-            get { return CategoriaId.ToString() + " - " + string.IsNullOrEmpty(Categoria.Descricao)?? ""; }
 
+            get
+            {
+                if (Util.VerificarClasseNaoNula(Categoria)==false)
+                {
+                    return CategoriaId.ToString();
+                }
+
+                else
+                {
+                    return CategoriaId.ToString() + " - " + Categoria.Descricao;
+                }
+
+            }
         }
+
+     
     }
 }
