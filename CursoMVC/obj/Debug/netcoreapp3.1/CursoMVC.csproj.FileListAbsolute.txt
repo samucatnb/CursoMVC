@@ -302,7 +302,6 @@ C:\RepositorioGitHub\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\runtimes\win-x86\
 C:\RepositorioGitHub\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\RepositorioGitHub\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\RepositorioGitHub\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\RepositorioGitHub\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\CursoMVC.csprojAssemblyReference.cache
 C:\RepositorioGitHub\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\staticwebassets\CursoMVC.StaticWebAssets.Manifest.cache
 C:\RepositorioGitHub\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\staticwebassets\CursoMVC.StaticWebAssets.xml
 C:\RepositorioGitHub\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\CursoMVC.MvcApplicationPartsAssemblyInfo.cache
@@ -336,3 +335,4 @@ C:\RepositorioGitHub\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\CursoMVC.Views.pd
 C:\RepositorioGitHub\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\CursoMVC.csproj.CopyComplete
 C:\RepositorioGitHub\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\CursoMVC.dll
 C:\RepositorioGitHub\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\CursoMVC.pdb
+C:\RepositorioGitHub\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\CursoMVC.csprojAssemblyReference.cache

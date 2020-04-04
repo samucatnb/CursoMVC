@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Threading.Tasks;
 
@@ -19,12 +20,14 @@ namespace CursoMVC.Models
         public int CategoriaId { get; set; }
         public Categoria Categoria { get; set; }
 
+        string categoria_CodigoNome;
         /// <summary>
         /// criei propriedade para devolver codigo e nome da categoria para mostrar em tela
         /// </summary>
+        [NotMapped]
         public string Categoria_CodigoNome
         {
-
+            set { categoria_CodigoNome = value; }
             get
             {
                 if (Util.VerificarClasseNaoNula(Categoria)==false)
